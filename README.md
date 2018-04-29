@@ -1,1 +1,1 @@
-# DePaul
+# Coursework at DePaul University
