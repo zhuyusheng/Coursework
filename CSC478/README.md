@@ -38,7 +38,7 @@ The following issues and topics will be covered throughout the course. Many of t
   * Markov Models
   * Dealing with Big Data and MapReduce
 #### TEXTBOOKS & COURSE MATERIAL
-- [Machine Learning in Action](), by Peter Harrington, Manning Publications, 2012.
+- [Machine Learning in Action](https://github.com/zhuyusheng/Coursework/blob/master/CSC478/Notes/Machine_Learning_in_Action.pdf), by Peter Harrington, Manning Publications, 2012.
 - Python Data Science Essentials - Learn the fundamentals of Data Science with Python, by Alberto Boschetti and Luca Massaron, Packt Publishing, 2015.
 - Python for Data Analysis, by Wes McKinney, O'Reilly, 2012.
 - Data Mining: Practical Machine Learning Tools and Techniques, by Ian Witten and Eibe Frank, 3rd Ed., Morgan Kaufmann, 2011. 
