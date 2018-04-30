@@ -28,3 +28,14 @@ The topics covered in the course include:
 - color spaces and transformations
 - segmentation
 - morphological image processing. 
+
+#### Course Learning Goals
+At the end of the course, students should be able to:
+- Understand the basic techniques of image processing
+- Understand the connection between the three areas that form visual computing: image processing,
+image analysis and computer vision
+- Identify image processing challenges and solutions for problems from different domains including
+military, computer gaming, homeland security, microarrays, web, education and training, and
+fashion and design.
+- Apply image processing techniques to solve these challenges
+- Acquire the skills needed for a job in image processing.
