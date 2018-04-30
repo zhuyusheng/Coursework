@@ -41,4 +41,4 @@ fashion and design.
 - Acquire the skills needed for a job in image processing.
 
 #### Textbooks and printed resources
-- Digital Image Processing, Fourth Edition, Gonzalez and Woods, ISBN 13: 9780133356724 http://www.prenhall.com/gonzalezwoods
+- Digital Image Processing, Fourth Edition, Gonzalez and Woods, ISBN 13: 9780133356724  http://www.prenhall.com/gonzalezwoods
