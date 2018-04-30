@@ -1,3 +1,6 @@
+### CSC481 Introduction to Image Processing
+***
+
 #### Course Description
 
 The technological revolution has allowed to capture, display, store and process images for almost any
