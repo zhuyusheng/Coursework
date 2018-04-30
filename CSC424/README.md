@@ -23,5 +23,5 @@ dimension reduction, factor rotation)
 #### Highly Recommended Books
 - Johnson & Wichern, “Applied Multivariate Statistical Analysis”, Published by Prentice Hall,
 ISBN-13: 9780131877153, 2008 (6th edition).
-- Hair, Black, Babin, & Anderson, “Multivariate Data Analysis”, Published by Prentice Hall, ISBN13:
+- Hair, Black, Babin, & Anderson, “[Multivariate Data Analysis](https://github.com/zhuyusheng/Coursework/blob/master/CSC424/Notes/Multivariate-Data-Analysis-7th-Edition.pdf)”, Published by Prentice Hall, ISBN13:
 9780138132637, 2010 (7th edition)
