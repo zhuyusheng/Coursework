@@ -1,4 +1,4 @@
-### CSC 481
+### CSC 481 Programming  Machine  Learning  Applications 
 ***
 #### COURSE DESCRIPTION
 
