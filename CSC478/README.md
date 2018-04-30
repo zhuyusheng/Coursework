@@ -20,20 +20,20 @@ The following issues and topics will be covered throughout the course. Many of t
   * Forecasting and Regression models
   * Evaluating predictive models
 - Unsupervised Learning
- * Clustering using K-Means
- * Association Rule discovery
- * Sequential Pattern Analysis
- * Principal Component Analysis and Dimensionality Reduction
+  * Clustering using K-Means
+  * Association Rule discovery
+  * Sequential Pattern Analysis
+  * Principal Component Analysis and Dimensionality Reduction
 - Possible Applications (covered throughout the course)
- * Collaborative Recommender Systems
- * Content Based personalization
- * Predictive User Modeling
- * Concept Discovery from Documents, Blogs, Social Annotations
- * Finding groups using social or behavioral data
- * Building predictive models for target marketing
- * Customer or user segmentation
+  * Collaborative Recommender Systems
+  * Content Based personalization
+  * Predictive User Modeling
+  * Concept Discovery from Documents, Blogs, Social Annotations
+  * Finding groups using social or behavioral data
+  * Building predictive models for target marketing
+  * Customer or user segmentation
 - Advance Topics (if time permits)
- * SVD and Matrix Factorization
- * Search and Optimization Techniques
- * Markov Models
- * Dealing with Big Data and MapReduce
+  * SVD and Matrix Factorization
+  * Search and Optimization Techniques
+  * Markov Models
+  * Dealing with Big Data and MapReduce
