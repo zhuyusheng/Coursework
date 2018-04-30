@@ -39,3 +39,6 @@ military, computer gaming, homeland security, microarrays, web, education and tr
 fashion and design.
 - Apply image processing techniques to solve these challenges
 - Acquire the skills needed for a job in image processing.
+
+#### Textbooks and printed resources
+- Digital Image Processing, Fourth Edition, Gonzalez and Woods, ISBN 13: 9780133356724 http://www.prenhall.com/gonzalezwoods
