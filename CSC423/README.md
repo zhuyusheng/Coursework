@@ -10,5 +10,5 @@ At the end of this course, students will be able:
 - To gain flexible problem-solving skills applicable to unfamiliar statistical settings
 
 ### Textbooks and Resources
-- A Second Course in Statistics: Regression Analysis, 7th ed., William Mendenhall, Terry L. Sincich, Prentice Hall, 2010 (ISBN: 9780321691699) – Or previous edition.
+- [A Second Course in Statistics: Regression Analysis, 7th ed.](https://github.com/zhuyusheng/Coursework/blob/master/CSC423/Notes/A%20Second%20Course%20in%20Statistics_%20Regression%20Analysis-Prentice%20Hall%20(2011)%20%20(7th%20Edition)%20William%20Mendenhall.pdf), William Mendenhall, Terry L. Sincich, Prentice Hall, 2010 (ISBN: 9780321691699) – Or previous edition.
 - Introductory notes on SAS will be posted on the course website.
